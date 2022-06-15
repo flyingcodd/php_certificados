@@ -1,8 +1,13 @@
 # php_certificados
 
-Credenciales
+## Que es php_certificados?
+Es una aplicacion construido en php para ggenerar certificados dinamicos en pdf.
 
-  user: admin
-  password: admin
+## Credenciales
+
+  **user**: *admin*     
+  **password**: *admin*
   
-Aplicacion en php para ggenerar certificados dinamicos en pdf.
+ ## -
+  
+*-Todo los derechos reservados 2022-*
